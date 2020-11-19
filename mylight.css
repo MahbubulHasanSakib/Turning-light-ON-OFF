@@ -1,0 +1,40 @@
+/*Author:Mahbubul Hasan Sakib*/
+
+body
+{
+    text-align:center;
+}
+h2
+{
+     font-size:30px;
+     color:grey;
+}
+#light_off
+{
+    background-color:lightgrey;
+    border-radius:8px;
+    font-family:Verdana;
+}
+#light_off1
+{
+    background-color:lightgrey;
+    border-radius:8px;
+}
+#light_off2
+{
+    background-color:lightgrey;
+    border-radius:8px;
+}
+#switch_off
+{
+    border-radius:5px;
+}
+.container
+{
+    width:1000px;
+    height:520px;
+    text-align:center;
+    margin:80px auto;
+    border:1px solid black;
+    border-radius:5px;
+}
